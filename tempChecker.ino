@@ -38,5 +38,4 @@ void loop() {
   lcd.print("Hum: ");
   lcd.print(humidity);
   lcd.print(" %");
-
 }
